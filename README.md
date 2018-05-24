@@ -11,7 +11,9 @@ c言語からJNIライブラリを使用したツールです。
 * dspmethods  
   javaクラスの情報を表示するプログラム
 * dsppropinfo  
-  javaのシステムプロパティ情報を表示するプログラム
+  javaのシステムプロパティ情報を表示するプログラム
+*  dspScriptEngine  
+  javaのScript Engine情報を表示するプログラム
   
 ## Demo ##
 ## VS. ##
