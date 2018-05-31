@@ -1,31 +1,52 @@
 javatool
 ========
-cè¨€èªã‹ã‚‰JNIãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚’ä½¿ç”¨ã—ãŸãƒ„ãƒ¼ãƒ«ã§ã™ã€‚
+cŒ¾Œê‚©‚çJNIƒ‰ƒCƒuƒ‰ƒŠ‚ğg—p‚µ‚½ƒc[ƒ‹‚Å‚·B
 
 ## Description ##
-### ãƒ„ãƒ¼ãƒ«ã®ç¨®é¡ ###
-* dspfields   
-  javaã‚¯ãƒ©ã‚¹ã®ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ä¸€è¦§ã‚’è¡¨ç¤ºã™ã‚‹ãƒ—ãƒ­ã‚°ãƒ©ãƒ 
+### ƒc[ƒ‹‚Ìí—Ş ###
+* dspfields  
+  javaƒNƒ‰ƒX‚ÌƒtƒB[ƒ‹ƒhˆê——‚ğ•\¦‚·‚éƒvƒƒOƒ‰ƒ€ 
+  - ƒtƒB[ƒ‹ƒh–¼ACüqAƒtƒB[ƒ‹ƒhƒ^ƒCƒv
 * dspjarfileinfo  
-  jarãƒ•ã‚¡ã‚¤ãƒ«ã®æƒ…å ±ã‚’è¡¨ç¤ºã™ã‚‹ãƒ„ãƒ¼ãƒ«ã§ã™ã€‚
+  jarƒtƒ@ƒCƒ‹‚Ìî•ñ‚ğ•\¦‚·‚éƒc[ƒ‹‚Å‚·B
+  - ƒtƒ@ƒCƒ‹–¼AÅIXV“úAÅIƒAƒNƒZƒX“úAÅIì¬“úAƒTƒCƒYAƒRƒƒ“ƒg
 * dspmethods  
-  javaã‚¯ãƒ©ã‚¹ã®æƒ…å ±ã‚’è¡¨ç¤ºã™ã‚‹ãƒ—ãƒ­ã‚°ãƒ©ãƒ 
+  javaƒNƒ‰ƒX‚Ìî•ñ‚ğ•\¦‚·‚éƒvƒƒOƒ‰ƒ€
+  - CüqAƒpƒ‰ƒ[ƒ^ƒ^ƒCƒvAƒŠƒ^[ƒ“ƒ^ƒCƒvAExceptionƒ^ƒCƒv
 * dsppropinfo  
- Â javaã®ã‚·ã‚¹ãƒ†ãƒ ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£æƒ…å ±ã‚’è¡¨ç¤ºã™ã‚‹ãƒ—ãƒ­ã‚°ãƒ©ãƒ 
-*  dspScriptEngine  
-  javaã®Script Engineæƒ…å ±ã‚’è¡¨ç¤ºã™ã‚‹ãƒ—ãƒ­ã‚°ãƒ©ãƒ 
-  
+  java‚ÌƒVƒXƒeƒ€ƒvƒƒpƒeƒBî•ñ‚ğ•\¦‚·‚éƒvƒƒOƒ‰ƒ€
+  - keyA’l
+* dspScriptEngine  
+  java‚ÌƒXƒNƒŠƒvƒgƒGƒ“ƒWƒ“î•ñ‚ğ•\¦‚·‚éƒvƒƒOƒ‰ƒ€
+  - ƒGƒ“ƒWƒ“–¼AƒGƒ“ƒWƒ“ƒo[ƒWƒ‡ƒ“A‘Î‰Œ¾Œê–¼A‘Î‰Œ¾Œêƒo[ƒWƒ‡ƒ“
+  - ‘Î‰Šg’£qA‘Î‰MIME TypeA‘Î‰ƒVƒ‡[ƒg–¼
+
 ## Demo ##
+
 ## VS. ##
+
 ## Requirement ##
-  JDK1.8ã«ä¾å­˜ã™ã‚‹
-  
+JDK1.8‚ÉˆË‘¶‚·‚é
+
 ## Usage ##
+* dspfields  
+  $ dspfields ƒtƒ‹ƒNƒ‰ƒX–¼
+* dspjarfileinfo  
+  $ dspfields jarƒtƒ@ƒCƒ‹–¼
+* dspmethods  
+  $ dspfields ƒtƒ‹ƒNƒ‰ƒX–¼
+* dsppropinfo  
+  $ dspfields
+* dspScriptEngine  
+  $ dspfields
+
 ## install ##
-  git clone https://github.com/siranovel/javatool.git  
-  cd javatool  
-  rpm -ivh <rpmãƒ•ã‚¡ã‚¤ãƒ«å>
-  
+    git clone ssh://git@192.168.0.10:29418/sira/javatool.git  
+    cd javatool  
+    rpm -ivh <rpmƒtƒ@ƒCƒ‹–¼>  
+
 ## Contribution ##
+
 ## Licence ##
+
 ## Author ##
