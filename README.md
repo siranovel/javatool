@@ -1,4 +1,4 @@
-﻿javatool
+javatool
 ========
 c言語からJNIライブラリを使用したツールです。
 
@@ -20,6 +20,7 @@ c言語からJNIライブラリを使用したツールです。
   javaのスクリプトエンジン情報を表示するプログラム
   - エンジン名、エンジンバージョン、対応言語名、対応言語バージョン
   - 対応拡張子、対応MIME Type、対応ショート名
+  
 
 ## Demo ##
 
@@ -32,13 +33,14 @@ JDK1.8に依存する
 * dspfields  
   $ dspfields フルクラス名
 * dspjarfileinfo  
-  $ dspfields jarファイル名
+  $ dspjarfileinfo jarファイル名
 * dspmethods  
-  $ dspfields フルクラス名
+  $ dspmethods フルクラス名
 * dsppropinfo  
-  $ dspfields
+  $ dsppropinfo
 * dspScriptEngine  
-  $ dspfields
+  $ dspScriptEngine
+  $ dspScriptEngine2
 
 ## install ##
     git clone https://github.com/siranovel/javatool.git  
