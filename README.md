@@ -39,7 +39,7 @@ JDK1.8に依存する
 * dsppropinfo  
   $ dsppropinfo
 * dspScriptEngine  
-  $ dspScriptEngine
+  $ dspScriptEngine  
   $ dspScriptEngine2
 
 ## install ##
