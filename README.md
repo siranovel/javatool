@@ -27,7 +27,8 @@ c言語からJNIライブラリを使用したツールです。
 ## VS. ##
 
 ## Requirement ##
-JDK1.8に依存する
+java11対応
+
 
 ## Usage ##
 * dspfields  
@@ -39,8 +40,7 @@ JDK1.8に依存する
 * dsppropinfo  
   $ dsppropinfo
 * dspScriptEngine  
-  $ dspScriptEngine  
-  $ dspScriptEngine2
+  $ dspScriptEngine
 
 ## install ##
     git clone https://github.com/siranovel/javatool.git  
