@@ -20,7 +20,15 @@ c言語からJNIライブラリを使用したツールです。
   javaのスクリプトエンジン情報を表示するプログラム
   - エンジン名、エンジンバージョン、対応言語名、対応言語バージョン
   - 対応拡張子、対応MIME Type、対応ショート名
-  
+* dspmodinfo  
+  javaクラスのModule情報を表示するプログラム
+  - Module名
+  - Version
+  - requires
+  - exports
+  - opens
+  - uses
+  - providers
 
 ## Demo ##
 
@@ -41,6 +49,8 @@ java11対応
   $ dsppropinfo
 * dspScriptEngine  
   $ dspScriptEngine
+* dspmodinfo  
+  $ dspmodinfo フルクラス名
 
 ## install ##
     git clone https://github.com/siranovel/javatool.git  
