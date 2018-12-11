@@ -2,7 +2,11 @@ javatool
 ========
 c言語からJNIライブラリを使用したツールです。
 
+
 ## Description ##
+クラス図などのUMLは、  
+https://github.com/siranovel/javatool/wiki
+
 ### ツールの種類 ###
 * dspfields  
   javaクラスのフィールド一覧を表示するプログラム 
