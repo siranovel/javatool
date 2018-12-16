@@ -8,31 +8,7 @@ c言語からJNIライブラリを使用したツールです。
 https://github.com/siranovel/javatool/wiki
 
 ### ツールの種類 ###
-* dspfields  
-  javaクラスのフィールド一覧を表示するプログラム 
-  - フィールド名、修飾子、フィールドタイプ
-* dspjarfileinfo  
-  jarファイルの情報を表示するツールです。
-  - ファイル名、最終更新日、最終アクセス日、最終作成日、サイズ、コメント
-* dspmethods  
-  javaクラスの情報を表示するプログラム
-  - 修飾子、パラメータタイプ、リターンタイプ、Exceptionタイプ
-* dsppropinfo  
-  javaのシステムプロパティ情報を表示するプログラム
-  - key、値
-* dspScriptEngine  
-  javaのスクリプトエンジン情報を表示するプログラム
-  - エンジン名、エンジンバージョン、対応言語名、対応言語バージョン
-  - 対応拡張子、対応MIME Type、対応ショート名
-* dspmodinfo  
-  javaクラスのModule情報を表示するプログラム
-  - Module名
-  - Version
-  - requires
-  - exports
-  - opens
-  - uses
-  - providers
+![java tool](images/UCjavatool.jpg)
 
 ## Demo ##
 
