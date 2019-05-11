@@ -31,7 +31,7 @@ java11対応
   $ dspScriptEngine
 * dspmodinfo  
   $ dspmodinfo フルクラス名
-* dspjvmflags
+* dspjvmflags  
 　dspjvmflags
 
 ## install ##
