@@ -31,6 +31,8 @@ java11対応
   $ dspScriptEngine
 * dspmodinfo  
   $ dspmodinfo フルクラス名
+* dspjvmflags
+　dspjvmflags
 
 ## install ##
     git clone https://github.com/siranovel/javatool.git  
