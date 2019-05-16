@@ -8,7 +8,7 @@ c言語からJNIライブラリを使用したツールです。
 https://github.com/siranovel/javatool/wiki
 
 ### ツールの種類 ###
-![java tool](images/UCjavatool.jpg)
+![java tool](images/ucJavaTool.jpg)
 
 ## Demo ##
 
@@ -32,7 +32,7 @@ java11対応
 * dspmodinfo  
   $ dspmodinfo フルクラス名
 * dspjvmflags  
-　dspjvmflags
+  $ dspjvmflags
 
 ## install ##
     git clone https://github.com/siranovel/javatool.git  
