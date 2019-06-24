@@ -1,4 +1,4 @@
-javatool
+﻿javatool
 ========
 c言語からJNIライブラリを使用したツールです。
 
@@ -33,6 +33,8 @@ java11対応
   $ dspmodinfo フルクラス名
 * dspjvmflags  
   $ dspjvmflags
+* dspjvciprop  
+  $ dspjvciprop
 
 ## install ##
     git clone https://github.com/siranovel/javatool.git  
