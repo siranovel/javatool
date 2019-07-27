@@ -4,10 +4,6 @@ c言語からJNIライブラリを使用したツールです。
 
 
 ## Description ##
-クラス図などのUMLは、  
-https://github.com/siranovel/javatool/wiki
-
-### ツールの種類 ###
 ![java tool](images/ucJavaTool.jpg)
 
 ## Demo ##
@@ -17,24 +13,9 @@ https://github.com/siranovel/javatool/wiki
 ## Requirement ##
 java11対応
 
-
 ## Usage ##
-* dspfields  
-  $ dspfields フルクラス名
-* dspjarfileinfo  
-  $ dspjarfileinfo jarファイル名
-* dspmethods  
-  $ dspmethods フルクラス名
-* dsppropinfo  
-  $ dsppropinfo
-* dspScriptEngine  
-  $ dspScriptEngine
-* dspmodinfo  
-  $ dspmodinfo フルクラス名
-* dspjvmflags  
-  $ dspjvmflags
-* dspjvciprop  
-  $ dspjvciprop
+詳細は、
+https://github.com/siranovel/javatool/wiki
 
 ## install ##
     git clone https://github.com/siranovel/javatool.git  
