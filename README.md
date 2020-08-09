@@ -26,4 +26,9 @@ https://github.com/siranovel/javatool/wiki
 
 ## Licence ##
 
+[GPLv2](LICENCE)
+
+
 ## Author ##
+
+[siranovel](https://github.com/siranovel)
