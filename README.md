@@ -2,7 +2,6 @@
 ========
 c言語からJNIライブラリを使用したツールです。
 
-
 ## Description ##
 ![java tool](images/ucJavaTool.jpg)
 
@@ -19,6 +18,7 @@ java11対応
 ## Usage ##
 
 ## install ##
+
     git clone https://github.com/siranovel/javatool.git  
     cd javatool  
     rpm -ivh <rpmファイル名>  
