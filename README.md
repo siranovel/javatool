@@ -6,6 +6,9 @@ c言語からJNIライブラリを使用したツールです。
 ## Description ##
 ![java tool](images/ucJavaTool.jpg)
 
+詳細は、
+https://siranovel.github.io/mydocs/javatool  
+
 ## Demo ##
 
 ## VS. ##
@@ -14,8 +17,6 @@ c言語からJNIライブラリを使用したツールです。
 java11対応
 
 ## Usage ##
-詳細は、
-https://github.com/siranovel/javatool/wiki
 
 ## install ##
     git clone https://github.com/siranovel/javatool.git  
